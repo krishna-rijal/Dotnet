@@ -16,3 +16,6 @@ select Yes.
 ### The preceding commands:
     o Creates a new web API project and opens it in Visual Studio Code.
     o Adds the NuGet packages which are required in the next section.
+
+# Output
+http://localhost:5064/weatherforecast
